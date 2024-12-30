@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e18bea2d-b44b-413a-8e9c-e67d6f5b86d4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ofvsYgdxWAcelt4H4USlO4z6z6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/basil/PycharmProjects/astroproject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e18bea2d-b44b-413a-8e9c-e67d6f5b86d4" name="Changes" comment="" />
+      <created>1731273652395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731273652395</updated>
+      <workItem from="1731273655095" duration="130000" />
+      <workItem from="1731432925461" duration="4660000" />
+      <workItem from="1731522873600" duration="38000" />
+      <workItem from="1731524719504" duration="130000" />
+      <workItem from="1731777672483" duration="2930000" />
+      <workItem from="1731837075734" duration="19000" />
+      <workItem from="1731864278034" duration="1776000" />
+      <workItem from="1731942221327" duration="3348000" />
+      <workItem from="1731945916699" duration="191000" />
+      <workItem from="1731949748931" duration="2261000" />
+      <workItem from="1732981445030" duration="7415000" />
+      <workItem from="1732994090915" duration="759000" />
+      <workItem from="1733066284792" duration="12844000" />
+      <workItem from="1733420869443" duration="55000" />
+      <workItem from="1733504521909" duration="620000" />
+      <workItem from="1733578075769" duration="2082000" />
+      <workItem from="1733915686929" duration="462000" />
+      <workItem from="1734110264346" duration="16000" />
+      <workItem from="1734875608514" duration="5062000" />
+      <workItem from="1734880951149" duration="11838000" />
+      <workItem from="1734971779553" duration="8317000" />
+      <workItem from="1735058569816" duration="243000" />
+      <workItem from="1735059235591" duration="277000" />
+      <workItem from="1735131141726" duration="18005000" />
+      <workItem from="1735259187580" duration="936000" />
+      <workItem from="1735261317113" duration="827000" />
+      <workItem from="1735497150763" duration="1037000" />
+      <workItem from="1735567788706" duration="2248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
